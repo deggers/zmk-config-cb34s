@@ -341,8 +341,8 @@
             bindings = <
 &mt DEL Q  &kp W  &kp E      &kp R      &kp T           &kp Y        &kp U      &kp I     &kp O    &kp P
     &kp A  &kp S  &kp D      &kp F      &kp G           &kp H        &kp J      &kp K     &kp L    &kp BACKSPACE
-    &kp Z  &kp X  &kp C      &kp V      &kp B           &kp N        &kp M      &kp COMMA &kp DOT  &mo 3
-                             &kp LCTRL  &kp SPACE       &kp RSHIFT   &kp RALT
+    &kp Z  &kp X  &kp C      &kp V      &kp B           &kp N        &kp M      &kp COMMA &kp DOT  &kp Y
+                             &kp SPC  &kp SPACE       &kp RSHIFT   &kp SPC
             >;
         };
     
